@@ -36,7 +36,7 @@ export const Employees = () => {
                     <td>{item.name } </td>
                      <td>{item.department } </td>
                       <td>{item.gender } </td>
-                      <td> <Link to={"/employee`${item.id}`"} >details</Link> </td>
+                      <td> <Link style={{color:'black'}} to={"/employee`${item.id}`"} >details</Link> </td>
                 </tr>
                        )
                    })
