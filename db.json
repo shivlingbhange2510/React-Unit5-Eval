@@ -1,0 +1,48 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "jso",
+     "age":22, "gender":"male",
+      "number":1235, 
+     "image":"/kk", 
+     "department":"it",
+     "salary" :"2000000"
+    },
+    {
+      "id": 2,
+      "name": "raj",
+     "age":22, "gender":"male",
+      "number":1235, 
+     "image":"/kk", 
+     "department":"it",
+     "salary" :"3333"
+    },
+    {
+      "id": 2,
+      "name": "abhinav",
+     "age":22, "gender":"male",
+      "number":1235, 
+     "image":"/kk", 
+     "department":"marketing",
+     "salary" :"3333"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
